@@ -67,7 +67,7 @@ Semua modul wajib dikerjakan siswa dan dinilai. \n \n
         • Membuat  Internet of Things (IoT) atau games sederhana\n
     </string>
     <string name="curriculum_1">
-        • Our Learning Ecosystem\n• Digital Literacy Skills\n• Computational Thinking\n• Introduction to Computer Science\n• Front-End Development\n• Web Development (12 Minggu)\n• User Experience\n• Android Development\n• Data Science\n• iOS Development\n• Visual Design\n• Digital Marketing\n• and many more
+        • Our Learning Ecosystem\n• Digital Literacy Skills\n• Computational Thinking\n• Introduction to Computer Science\n• Front-End Development\n• Web Development\n• User Experience\n• Android Development\n• Data Science\n• iOS Development\n• Visual Design\n• Digital Marketing\n• and many more
     </string>
     <string name="place">
         at Koloni Bintaro\n
@@ -87,5 +87,6 @@ Semua modul wajib dikerjakan siswa dan dinilai. \n \n
     <string name="fulltime">
         Senin - Jumat\nHomeschooling SMA.\npukul 08.00 - 11.00\nCoding.\npukul 12.00 - 17.00\n
     </string>
+    <string name="address">MercySmart HQ \n Jl Kebon Bawang VI/35, Tg Priok, Jakarta Utara, 14320\n +62214350654 / +628170046767\ncodingsmartschool.github.io </string>
 
 </resources>

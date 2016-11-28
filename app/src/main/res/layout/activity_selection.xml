@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_selection"
@@ -19,8 +22,14 @@
         android:textStyle="bold"
         android:textColor="@color/colorPrimaryDark"
         android:text="Selection"
-        android:fontFamily="sans-serif-light"
+        android:fontFamily="sans-serif"
         android:textSize="28sp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="160dp"
+        android:src="@mipmap/logocss"
+        android:layout_margin="8dp" />
 
     <Button
         android:id="@+id/meetup_button"
@@ -59,3 +68,4 @@
 
 
 </LinearLayout>
+</ScrollView>

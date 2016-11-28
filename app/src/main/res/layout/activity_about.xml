@@ -13,17 +13,24 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
+    android:gravity="center_horizontal"
     tools:context="id.codingsmartschool.app.AboutActivity">
 
     <TextView
         android:id="@+id/about"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="About \nCoding Smart School \n"
+        android:text="About"
         android:textStyle="bold"
         android:textColor="@color/colorPrimaryDark"
         android:fontFamily="sans-serif"
         android:textSize="28sp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="160dp"
+        android:src="@mipmap/logocss"
+        android:layout_margin="8dp" />
 
     <TextView
         android:layout_width="wrap_content"

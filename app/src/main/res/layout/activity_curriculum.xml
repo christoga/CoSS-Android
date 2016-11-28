@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/activity_curriculum"
@@ -17,9 +20,18 @@
         android:layout_height="wrap_content"
         android:text="Curriculum"
         android:fontFamily="sans-serif"
+        android:textStyle="bold"
         android:padding="20dp"
         android:textColor="@color/colorPrimaryDark"
         android:textSize="28sp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="160dp"
+        android:src="@mipmap/logocss"
+        android:layout_margin="8dp"
+        />
+
 
     <TextView
         android:layout_width="wrap_content"
@@ -29,3 +41,4 @@
 
 
 </LinearLayout>
+</ScrollView>
