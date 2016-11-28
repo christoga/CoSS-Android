@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coding Smart School</string>
+    <string name="activity_meetup">Meetup</string>
+    <string name="activity_workshop">Workshop</string>
+    <string name="activity_parttime">Part-Time School</string>
+    <string name="activity_fulltime">Full-Time School</string>
+</resources>
