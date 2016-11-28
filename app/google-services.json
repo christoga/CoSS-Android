@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1032463194214",
+    "firebase_url": "https://mercysmart-eb1c6.firebaseio.com",
+    "project_id": "mercysmart-eb1c6",
+    "storage_bucket": "mercysmart-eb1c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032463194214:android:fe6480383b55408f",
+        "android_client_info": {
+          "package_name": "id.codingsmartschool.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032463194214-jcr32ienrlets8t604od4dim2kei2emm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.codingsmartschool.app",
+            "certificate_hash": "C28B6247000DCF042747874FB7FD8D34E8AC6917"
+          }
+        },
+        {
+          "client_id": "1032463194214-hnkcpg9cnrs2c051han9sbjvtngbvbrh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNak1H1kv-KJLTf9CAUpwE9DM_uA-yToU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032463194214-hnkcpg9cnrs2c051han9sbjvtngbvbrh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

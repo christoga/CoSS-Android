@@ -18,7 +18,13 @@
         <activity android:name=".MeetupActivity" />
         <activity android:name=".WorkshopActivity" />
         <activity android:name=".PartTimeActivity" />
-        <activity android:name=".FullTimeActivity"></activity>
+        <activity android:name=".FullTimeActivity" />
+        <activity android:name=".AboutActivity" />
+        <activity android:name=".IntroActivity" />
+        <activity android:name=".SelectionActivity" />
+        <activity android:name=".CurriculumActivity" />
+        <activity android:name=".PlaceActivity" />
+        <activity android:name=".SubscribeActivity"></activity>
     </application>
 
 </manifest>

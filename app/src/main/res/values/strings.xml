@@ -4,4 +4,88 @@
     <string name="activity_workshop">Workshop</string>
     <string name="activity_parttime">Part-Time School</string>
     <string name="activity_fulltime">Full-Time School</string>
+    <string name="about_1">
+        • Pendidikan informal dengan Ijin Operasional Dinas Pendidikan DKI Jakarta  (d/a PKBM MercySmart  2010) berfokus Teknologi Informasi \n \n
+        • Peserta minimal tamat SMP sehingga Coding Smart School memberikan dua bidang pendidikan yakni, materi kurikulum SMA  IPA (3 jam) dan Coding Computer (5 jam) tiap hari \n \n
+        • Siswa mengikuti Ujian Nasional Setara SMA dan otomatis mendapat Ijazah Kemdikbud, sehingga  dijamin melanjutkan pendidikan ke Perguruan Tinggi Negeri atau Swasta, Dalam dan Luar Negeri.  \n \n
+        • Pengajar Materi Kurikulum SMA adalah Tutor Homeschooling Profesional \n\n
+        • Pengajar Materi Coding adalah para expert  / Chief Technology Officer CTO di berbagai perusahaan teknologi (bukan sekadar guru IT seperti di SMK atau SMA biasa) \n</string>
+    <string name="visi">Generasi Muda Indonesia yang menguasai Teknologi Informasi dan Mewujudkan Developer Indonesia sebagai Tuan dan Nona Rumah di negara sendiri, Indonesia \n</string>
+    <string name="misi">• Menjadi lembaga pendidikan setara SLTA yang  terbaik  dalam mempelari dan menguasai Teknologi Informasi \n \n
+• Menjadi lembaga pendidikan dengan kualitas memukau tetapi dengan biaya terjangkau karena strategi pembelajaran yang efektif dan efisien \n \n
+• Memberi kesempatan belajar  dan praktek Teknologi Informasi  yang  terkini, update, dan  real time bagi sebanyak mungkin anak muda \n \n</string>
+    <string name="strategi">• Memberi kesempatan belajar dan praktek Teknologi Informasi bagi sebanyak mungkin anak muda (usia 14 – 25 tahun) \n \n
+• Membuka kelas di berbagai tempat di seluruh Indonesia karena sistem belajar merupakan paduan online dan offline system \n \n
+• Cara belajar Online yakni siswa hadir di kelas komunitas dan mendapat kuliah online / streaming dari para CTO / expert di bidang teknologi \n \n</string>
+    <string name="add">• Cara belajar Offline yakni siswa mengerjakan kertas kerja (Modul) yang sudah dipatenkan Coding Smart School  dibimbing Tutor di  kelas.
+Semua modul wajib dikerjakan siswa dan dinilai. \n \n
+• Siswa yang belum berhasil mendapat nilai minimal, wajib mengulang modul tersebut."</string>
+    <string name="meetup_1">
+        Coding Smart School bersama Kementerian Komunikasi dan Informatika (KOMINFO) dan Indosat Ooredoo mengadakan acara Temu Komunitas (calon) Programmer Muda. Kali ini akan membahas topik\n\n
+        "Menjadi Programmer sejak usia muda; Prospek karier dan peluang usaha programmer di Indonesia".\n\n
+        Bagi para calon Programmer, yakni remaja belasan tahun yang masih bermimpi  akan diajak menonton film dokumenter Programmer Cilik yang mengisahkan Andre Christoga (12) tahun dengan keterbatasan ekonomi, belajar programming secara otodidak karena belum adanya sekolah Coding bagi anak dan remaja, dan Andre pun berhasil memenangkan berbagai lomba programmer. Kisah nyata Andre bahkan dijadikan ikon dalam Film "Programmer Cilik" Metro TV dan terpilih menjadi film nominator Eagle Awards Documentary Competition 2016.\n\n
+        Bagaimana prospek karier dan peluang usaha programmer di Indonesia? Itu yang akan dibahas oleh Para Pembicara yang berkompeten dalam bidang teknologi, yakni</string>
+    <string name="meetup_2">
+        1. Rudiantara, Menteri Komunikasi dan Informatika\n
+        2. Andy Zain, Managing Director Kejora Venture Capital\n
+        3. Alex Rusli*, CEO Indosat Ooredoo\n
+        4. Nadiem Makarim*, CEO GO-JEK\n
+        Moderator: Mercy Sihombing,\n Founder Coding Smart School\n\n
+        Cari tahu bagaimana mereka membutuhkan puluhan bahkan ratusan programmer setiap tahun, pelajari cara mereka membesarkan perusahaan teknologi, rintangan apa saja yang dihadapi, hingga bagaimana agar sukses pada usia muda di bidang Teknologi.\n
+        Kursi terbatas untuk 200 siswa kelas 3 SMP yang wajib didampingi orangtua, pastikan anda mendapatkannya.
+    </string>
+    <string name="intro_1">
+        Langkah Pertama mewujudkan mimpi menjadi
+        Bill Gates, Steve Jobs, Mark Zuckerberg, dan terpenting,\njadi DIRIMU sendiri.
+        \n \n
+        Waktu :  Sabtu - Minggu, Februari 2016\n pk 09.00 – 15.00\n
+        Pembicara : Tutor Coding Smart School \n
+        Peserta : (400 peserta usia 14 – 25 tahun) \n \n
+        Materi : \n
+        • Introduction to Coding Smart School\n
+        • The Future of Programmer and Start-up\n
+        • Seleksi Coding Smart School tahap 1\n
+        • Sertifikat\n
+    </string>
+    <string name="workshop_1">
+        1. Pengenalan Coding untuk membuat website\n\n
+        Waktu :  Sabtu - Minggu, Maret 2016\n pk 09.00 – 15.00\n
+        Pembicara : Tutor Coding Smart School \n
+        Peserta : (400 peserta usia 14 – 25 tahun) \n \n
+        Materi :\n
+        • Mengenalkan bahasa pemrograman sederhana\n
+        • Mengenalkan masa depan programmer dan dunia startup\n
+        • Membuat website sederhana\n
+    </string>
+    <string name="workshop_2">
+        2. Mengenal Coding untuk Internet of Things (IOT)\n\n
+        Waktu :  Sabtu - Minggu, Maret 2016\n pk 09.00 – 15.00\n
+        Pembicara : Tutor Coding Smart School \n
+        Peserta : (200 peserta usia 14 – 25 tahun) \n \n
+        Materi:\n
+        • Cara membuat  aplikasi berbasis website dengan coding sederhana\n
+        • Membuat  Internet of Things (IoT) atau games sederhana\n
+    </string>
+    <string name="curriculum_1">
+        • Our Learning Ecosystem\n• Digital Literacy Skills\n• Computational Thinking\n• Introduction to Computer Science\n• Front-End Development\n• Web Development (12 Minggu)\n• User Experience\n• Android Development\n• Data Science\n• iOS Development\n• Visual Design\n• Digital Marketing\n• and many more
+    </string>
+    <string name="place">
+        at Koloni Bintaro\n
+        - Ruko Emerald Avenue 1 Blok EA 09 – A 09, Boulevard Bintaro Jaya, Parigi, Pd. Aren, Kota Tangerang Selatan, Banten 15227 \n\n
+        at Ierospace Thamrin \n
+        - CHUBB Square 8th floor (UOB Plaza), Thamrin Nine, Jl M.H. Thamrin Kav 8-10, RT.14/RW.20, Kb. Melati, Jakarta, Daerah Khusus Ibukota Jakarta 10230 \n\n
+        at Crackerz Kuningan \n
+        - MD Place, Tower 2 Lt.5, Jalan Setia Budi Selatan No.7, RT.5/RW.1, Setia Budi, Setiabudi Selatan, Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12910\n\n
+        at Ruang Linkup Kalibata \n
+        - Jl. Rawajati Timur I Rw. Jati No.1, RT.3/RW.2, Rawajati, Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12750\n\n
+        at Ruang Linkup Permata Hijau \n
+        - Jl. Kemandoran VIII/68A, Permata Hijau, Jakarta Selatan, Daerah Khusus Ibukota Jakarta\n\n
+    </string>
+    <string name="parttime">
+        Sekolah SMA biasa di mana saja.\n\nSabtu - Minggu\npukul 09.00 - 17.00\nat Coding Smart School.\n
+    </string>
+    <string name="fulltime">
+        Senin - Jumat\nHomeschooling SMA.\npukul 08.00 - 11.00\nCoding.\npukul 12.00 - 17.00\n
+    </string>
+
 </resources>

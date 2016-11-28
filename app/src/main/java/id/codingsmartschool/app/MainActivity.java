@@ -14,29 +14,30 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    public void onButtonClickedMeetup(View view) {
+    public void onButtonClickedAbout(View view) {
 
-        Intent intent = new Intent(this, MeetupActivity.class);
+        Intent intent = new Intent(this, AboutActivity.class);
         startActivity(intent);
 
     }
 
-    public void onButtonClickedWorkshop(View view) {
+    public void onButtonClickedSelection(View view) {
 
-        Intent intent = new Intent(this, WorkshopActivity.class);
-        startActivity(intent);
-    }
-
-    public void onButtonClickedParttime(View view) {
-
-        Intent intent = new Intent(this, PartTimeActivity.class);
+        Intent intent = new Intent(this, SelectionActivity.class);
         startActivity(intent);
 
     }
 
-    public void onButtonClickedFulltime(View view) {
+    public void onButtonClickedCurriculum(View view) {
 
-        Intent intent = new Intent(this, FullTimeActivity.class);
+        Intent intent = new Intent(this, CurriculumActivity.class);
         startActivity(intent);
+
+    }
+    public void onButtonClickedPlace(View view) {
+
+        Intent intent = new Intent(this, PlaceActivity.class);
+        startActivity(intent);
+
     }
 }

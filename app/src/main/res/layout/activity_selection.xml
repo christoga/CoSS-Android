@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/activity_main"
+    android:id="@+id/activity_selection"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:paddingBottom="@dimen/activity_vertical_margin"
@@ -10,49 +10,52 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:orientation="vertical"
     android:gravity="center_horizontal"
-    tools:context="id.codingsmartschool.app.MainActivity">
+    tools:context="id.codingsmartschool.app.SelectionActivity">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Coding Smart School"
+        android:padding="20dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimaryDark"
+        android:text="Selection"
         android:fontFamily="sans-serif-light"
         android:textSize="28sp"/>
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="for full info: \n"
-        android:fontFamily="sans-serif-light"
-        android:textSize="23sp"/>
-
     <Button
+        android:id="@+id/meetup_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="about"
-        android:onClick="onButtonClickedAbout"/>
+        android:text="@string/activity_meetup"
+        android:onClick="onButtonClickedMeetup"/>
 
     <Button
+        android:id="@+id/intro_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Student Selection"
-        android:onClick="onButtonClickedSelection"/>
+        android:text="Introduction"
+        android:onClick="onButtonClickedIntro"/>
 
     <Button
+        android:id="@+id/workshop_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Curriculum"
-        android:onClick="onButtonClickedCurriculum"/>
+        android:text="Workshop"
+        android:onClick="onButtonClickedWorkshop"/>
 
     <Button
+        android:id="@+id/parttime_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Our Co-Learning Space"
-        android:onClick="onButtonClickedPlace"/>
+        android:text="Part-Time School"
+        android:onClick="onButtonClickedParttime"/>
 
     <Button
+        android:id="@+id/fulltime_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Subscribe"
-        android:onClick="onButtonClickedSubscribe"/>
+        android:text="Full-Time School"
+        android:onClick="onButtonClickedFulltime"/>
+
+
 </LinearLayout>
